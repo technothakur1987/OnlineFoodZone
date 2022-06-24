@@ -1,0 +1,28 @@
+@media screen and (max-width:750px) {
+    html
+{
+    font-size: 5px ;
+}
+#navigationbar{
+    flex-direction: column;
+}
+.navbar ul{
+    justify-content: space-evenly;
+    align-items: center;
+}
+.navbar ul li{
+    font-size: 2.1rem;
+}
+
+#home h1{
+    padding-top:6rem;
+}
+
+.servicecolumn img{
+    height: 12rem;
+    width: 20rem;
+}
+
+
+    
+}
